@@ -1,0 +1,8 @@
+pirma ir antra užduotis yra IBAN aplankale, ja pasileist galite isijunge "IBAN.jar" faila.
+
+trecia užduotis susikirstyta i aplankalus RestWeb ir SoapWeb.
+
+Rest servisa galite isijungti paleide pacia programa ir ijunge api testavimo programa Postman. Aplankale yra nurodytas kreipimaisis i servisa, taip nuotraukos kaip atrodo kreipimasis ir atsakas.
+
+Soap servisa galite isijungti paleide pacia programa ir ijunge api testavimo programa Postman. Aplankale yra nurodytas kreipimaisis i servisa, taip nuotraukos kaip atrodo kreipimasis ir atsakas.
+Taip pat pridetas php failas "index.php" kuris kontaktuoja su veikianciu Soap servisu. 

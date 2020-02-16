@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:is="http://iban.com/iban">
+    <soapenv:Header/>
+    <soapenv:Body>
+       <is:getIbanRequest>
+           <is:Iban>LT647044001231465456</is:Iban>
+       </is:getIbanRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
